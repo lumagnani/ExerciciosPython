@@ -14,7 +14,7 @@ Clone este repositório:
 ```
 git clone https://github.com/lumagnani/ExerciciosPython.git
 ```
-## Navegue até o diretório:
+Navegue até o diretório:
 ```
 cd nome-do-repositorio
 ```
