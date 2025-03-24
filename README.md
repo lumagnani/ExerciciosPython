@@ -7,6 +7,7 @@ Os exercícios estão organizados em pastas conforme os módulos do curso.
 
 ## 🛠 Tecnologias Utilizadas
 Python 🐍
+
 Editor de código: VS Code / PyCharm / Outro (adicione o que usa)
 
 ## 🚀 Como Usar
