@@ -1,3 +1,4 @@
+
 '''
 Crie um programa que leia o nome completo de uma pessoa e mostre:
 O nome com todas as letras maiúsculas e minúsculas.
@@ -11,5 +12,6 @@ print(len(nome) - nome.count(' ')) #Tirando os espaços
 #print (nome.find(' '))
 separa = nome.split()
 print(len(separa[0]))
+
 
 
